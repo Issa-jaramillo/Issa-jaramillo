@@ -1,4 +1,4 @@
-## Hey  👋, I'm Issa Jaramillo!  
+## Hey digital world  👋, I'm Issa Jaramillo!  
   
 
 <a href="https://github.com/issa-jaramillo" target="_blank">
@@ -15,7 +15,12 @@
 
 
 ### Glad to see you here!  
-Hello, I'm Issa, a Full Stack developer with experience in technologies like React, Redux, and Node.js. I'm focused on creating innovative solutions and continuously learning. If you'd like to learn more about my work or explore collaboration opportunities, feel free to contact me via email at issakaterinejaramilloalvarez@gmail.com. I'm excited to connect with you and explore new opportunities in the digital world.  
+👋 Hello, I'm Issa, a Full Stack developer with experience in technologies like React, Redux, and Node.js. 
+🌟 I'm focused on creating innovative solutions and continuously learning.
+
+ If you'd like to learn more about my work or explore collaboration opportunities, feel free to contact me via email at issakaterinejaramilloalvarez@gmail.com. 📧
+
+ I'm excited to connect with you and explore new opportunities in the digital world. Let's create something amazing together! 🚀  
   
 
 <br/>  
